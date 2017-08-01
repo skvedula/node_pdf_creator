@@ -4,10 +4,10 @@ body {
 }
 
 .big-font {
-	font-size: 32px;
+	font-size: 56px;
 	text-align: center;
 	font-weight: bold;
-	padding: 5px;
+	padding: 20px;
 }
 
 .border-right {
@@ -24,6 +24,12 @@ body {
 
 .col-xs-4 {
 	text-align: center;
+}
+
+p.font-label {
+	font-size: 8px;
+	padding: 1px;
+	margin: 0;
 }
 
 p.footer {
