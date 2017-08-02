@@ -2,5 +2,5 @@
   "height": "148mm",
   "width": "210mm",
   "type": "pdf",
-  "base": "http://localhost:3000/"
+  "base": "http://0.0.0.0:3000/"
 }
